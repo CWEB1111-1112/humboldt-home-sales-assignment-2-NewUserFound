@@ -1,6 +1,8 @@
 #  MPLS care attendant Daily Dog Log
 
-The MPLS care attendant Daily Dog Log is a program that allows the care attendant manager to  enter daily log for each Dog in MPLS Dogboarding Academy's care.  Listed below is a chart with the name of each care attendant and the name of each dog in thier care.  The program allows the manager to enter the total amount of time spent with the dog, the services provided to dog(bath, grooming or none), and a general note about dog's day and tempermant.  Once the manager is done entering all logs, the program will display all the logs grouped by care attendant. The program also provides you with a summary of the dog with the most care minutes.
+The MPLS care attendant Daily Dog Log is a program that allows the care attendant manager to  enter daily log for each Dog in MPLS Dogboarding Academy's care.  Listed below is a chart with the name of each care attendant and the name of each dog in thier care.  
+The program allows the manager to enter the total amount of time spent with the dog, the services provided to dog(bath, grooming or none), and a general note about dog's day and tempermant.  
+Once the manager is done entering all logs, the program will display all the logs grouped by care attendant. The program also provides you with a summary of the dog with the most care minutes.
 
 | ID # | Care Attendant Name | Dogs in Care                                         |
 |------|---------------------|------------------------------------------------------|
